@@ -1,0 +1,7 @@
+.DS_Store
+matome.txt
+img/
+results/
+jupyter/
+json/
+__pycache__
